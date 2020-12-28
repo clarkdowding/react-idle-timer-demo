@@ -1,0 +1,7 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#36043d",
+    "statusBar.border": "#d70ff1",
+    "sash.hoverBorder":"#d70ff1"
+  }
+}
