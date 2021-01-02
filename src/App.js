@@ -4,7 +4,7 @@ import { format } from 'date-fns'
 import { useIdleTimer } from 'react-idle-timer'
 
 export default function App() {
-  const timeout = 3000
+  const timeout = 6000
   const [remaining, setRemaining] = useState(timeout)
   const [elapsed, setElapsed] = useState(0)
   const [lastActive, setLastActive] = useState(+new Date())
